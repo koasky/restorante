@@ -1,0 +1,73 @@
+#header {
+  background-image: url("../backgrounds/landing.jpg");
+  height: 550px;
+}
+
+#logo {
+  height: 350px;
+}
+
+#slogan {
+  margin-left: 35%;
+  margin-top: 5%;
+  font-size: 30px;
+  color: white;
+}
+
+h2 {
+  background-color: white;
+  width: 200px;
+  padding: 10px
+}
+
+h3 {
+  background-color: #EB5315;
+  width: 277px;
+  padding: 45px
+}
+
+.ptime {
+  color: white;
+}
+
+.img {
+  float: right;
+}
+
+.move {
+  margin-left:150px;
+  margin-top: 70px;
+  border: 15px solid #F3DCFA;
+  margin-right: 35px;
+
+}
+.move1 {
+  margin-top: 70px;
+  margin-right: 5px;
+
+}
+
+}
+.butt {
+  color: red;
+
+}
+
+.move2 {
+  margin-top: 70px;
+  margin-left: 100px;
+}
+
+.drinks {
+  margin-left:150px;
+  margin-top: 70px;
+  border: 5px solid #F3DCFA;
+  margin-right: 35px;
+}
+
+
+
+
+/*#fastfood {
+  padding: 20px;
+}*/
